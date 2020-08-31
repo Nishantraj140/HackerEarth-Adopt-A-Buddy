@@ -1,5 +1,9 @@
 # Adopt-a-buddy
 
+Hackathon organised by hackerearth to adopt a buudy. Secured 172nd rank out of 5060 (top 3.5%) with model accuracy of 90.16.
+
+![](https://github.com/Nishantraj140/HackerEarth-Adopt-A-Buddy/blob/master/Screenshot%20from%202020-08-31%2020-08-30.png)
+
 # PROBLEM STATEMENT:
 
 A leading pet adoption agency is planning to create a virtual tour experience for their customers showcasing all animals that are available in their shelter. To enable this tour experience, you are required to build a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors.
